@@ -4,5 +4,5 @@ Hiding texts inside images using least significant bit method is solved using py
 
 # Requirements
 install PIL,colors,binascii modules
-requires python 3 and above
+requires python 3 and above.
 
